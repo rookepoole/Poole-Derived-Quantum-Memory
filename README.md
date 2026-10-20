@@ -110,6 +110,5 @@ This optional QPY disassembly has **not been run in this packaging environment**
 
 **Privacy:** The original IBM provider ZIP contains an account-identifying `user_id` field and is deliberately **not** included. The public outcome histograms preserve every nine-bit measurement distribution. Use `scripts/verify_raw_archive_optional.py /path/to/original.zip` (requires NumPy) to verify the sanitized release against a privately held original export. The original private ZIP's SHA-256 is recorded in `data/sanitized_provenance.json`.
 
-**Publication:** This is a draft release package, not an uploaded GitHub repository, peer-reviewed paper or DOI deposit. Before publishing, check `PUBLICATION_CHECKLIST.md`, review the included `LICENSE` / `LICENSE_SCOPE.md`, and inspect the archive contents.
 
 **Source reference:** [Poole V207 Immortal Latch at pinned Git commit `17f6ca709ed45ed207aa45f680cb3eb18be14a74`](https://github.com/rookepoole/Poole-Manifold/blob/17f6ca709ed45ed207aa45f680cb3eb18be14a74/Experiments/CPU_Logic/CPU%20ARCHITECTURE%20%28V207%29%20%23%20SHOWCASE%20BLUEPRINT-%20The%20Immortal%20Latch%20%28Radiation-Hardened%20SRAM%29).
