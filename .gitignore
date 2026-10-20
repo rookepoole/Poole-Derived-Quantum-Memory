@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.pem
+*.key
+job-*-info.json
+job-*-result.json
+job-*.zip
+results/original_qpy_inspection.json
+
+private_runs/
+public_exports/
+.venv/
+*token*
+*credential*

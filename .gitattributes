@@ -1,0 +1,8 @@
+# Keep frozen scientific byte hashes invariant across Windows and Unix checkouts.
+*.qasm -text
+*.qpy binary
+*.npz binary
+*.png binary
+*.json text eol=lf
+*.py text eol=lf
+*.md text eol=lf

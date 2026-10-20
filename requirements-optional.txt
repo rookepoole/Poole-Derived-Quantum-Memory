@@ -1,0 +1,6 @@
+# Only necessary for 625,000-cell source verification and archival reconstruction:
+numpy>=1.24
+scipy>=1.10
+# Separately, only for original QPY inspection (requires compatible QPY-v17 reader):
+# A recent qiskit version with support for provider QPY file-format v17
+# Main reproduction uses Python standard library ONLY.

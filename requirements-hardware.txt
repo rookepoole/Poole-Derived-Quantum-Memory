@@ -1,0 +1,4 @@
+# Hardware tools only; offline statistical reproduction has no external dependencies.
+# Recommended tested interfaces in IBM documentation as of October 2026.
+qiskit>=2.5,<3
+qiskit-ibm-runtime>=0.50,<0.51

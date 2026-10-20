@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If using these results, please cite the Poole V207 two-generation IBM hardware reproducibility release."
+title: "Poole V207 Two-Generation Causal-Cone Experiment: IBM Kingston Reproducibility Data and Circuits"
+authors:
+  - family-names: Poole
+    given-names: Rooke A.
+version: "1.1.1"
+date-released: 2026-10-20
+type: software
+keywords:
+  - cellular automata
+  - quantum circuit
+  - two-generation memory
+  - reproducibility
+  - IBM Quantum
