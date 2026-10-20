@@ -1,0 +1,45 @@
+{
+  "source": "sanitized original IBM v2.4 9-bit outcome histograms",
+  "job_id": "dbaoflpgv2cc73e75v10",
+  "backend": "ibm_kingston",
+  "n_circuits": 16,
+  "shots": 16384,
+  "correct_final_center": 15272,
+  "center_accuracy": 0.93212890625,
+  "preparation_register_agreement": 0.787109375,
+  "group_rates": {
+    "retain_b0": {
+      "on": 1143,
+      "shots": 4096,
+      "on_probability": 0.279052734375
+    },
+    "retain_b1": {
+      "on": 3846,
+      "shots": 4096,
+      "on_probability": 0.93896484375
+    },
+    "erase_b0": {
+      "on": 204,
+      "shots": 4096,
+      "on_probability": 0.0498046875
+    },
+    "erase_b1": {
+      "on": 263,
+      "shots": 4096,
+      "on_probability": 0.064208984375
+    }
+  },
+  "retained_contrast": 0.659912109375,
+  "erased_contrast": 0.014404296875,
+  "difference_in_differences": 0.6455078125,
+  "shot_only_standard_error": 0.009451543554028325,
+  "difference_in_differences_95pct_normal_shot_only": [
+    0.6269827871341045,
+    0.6640328378658955
+  ],
+  "ideal_difference_in_differences": 0.75,
+  "method": "full 9-bit histograms, 1024 shots each, computational-basis central-bit q4, no postselection",
+  "uncertainty_caveat": "binomial independent-shot normal approximation only; excludes QPU drift, temporal correlations and SPAM/reset systematics",
+  "source_caveat": "two-generation simplified center update is restricted to eight reachable F1 states and all-neighbor-erased control",
+  "QPY_gate_by_gate_disassembly_verified": false
+}
