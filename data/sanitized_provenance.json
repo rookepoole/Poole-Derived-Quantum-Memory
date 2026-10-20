@@ -1,0 +1,127 @@
+{
+  "job_id": "dbaoflpgv2cc73e75v10",
+  "device": "ibm_kingston",
+  "created_utc": "2026-10-19T03:00:39.285309Z",
+  "status": "Completed",
+  "circuits": 16,
+  "shots_per_circuit": 1024,
+  "total_shots": 16384,
+  "reported_estimated_runtime_seconds": 5.648175474,
+  "original_provider_zip_sha256": "13811b5f41d97a3dd6f635225ba38a516cd504e0625b941267d41d9777d3c595",
+  "raw_provider_zip_included": false,
+  "reason": "original provider metadata has account-identifying field(s); sanitized counts + original circuit QPY only",
+  "original_compiled_qpy": [
+    {
+      "pub": 0,
+      "filename": "original_ibm_pub00.qpy",
+      "sha256": "a6bc4fa531ee7e7694698f68b6815ca742ca324aac40c4819b25408f58ac7567",
+      "bytes": 24160,
+      "qpy_version": 17
+    },
+    {
+      "pub": 1,
+      "filename": "original_ibm_pub01.qpy",
+      "sha256": "c252c0988a1c3ff075d9df5cf1f1f5bf90d0d601dc3a4d2bd2453904546119c8",
+      "bytes": 24325,
+      "qpy_version": 17
+    },
+    {
+      "pub": 2,
+      "filename": "original_ibm_pub02.qpy",
+      "sha256": "314ecfd30421add799e290f0ee9b57a918455c4ca5b9c963fbdd0e120cc9676a",
+      "bytes": 24203,
+      "qpy_version": 17
+    },
+    {
+      "pub": 3,
+      "filename": "original_ibm_pub03.qpy",
+      "sha256": "0668299910003fe0d136e668633acf88a9df49d26b6c833343c3487cf9b33ba9",
+      "bytes": 24203,
+      "qpy_version": 17
+    },
+    {
+      "pub": 4,
+      "filename": "original_ibm_pub04.qpy",
+      "sha256": "a7bbbba9b00f5958ab8b27c868525b76b29d09bedea44dca658cb3b90b04e3c5",
+      "bytes": 23821,
+      "qpy_version": 17
+    },
+    {
+      "pub": 5,
+      "filename": "original_ibm_pub05.qpy",
+      "sha256": "eb803b0e69e30f08af5a8c15dc7b9dc443501c75a600dd51446d4d168c1cc2ac",
+      "bytes": 23900,
+      "qpy_version": 17
+    },
+    {
+      "pub": 6,
+      "filename": "original_ibm_pub06.qpy",
+      "sha256": "12fbaf27991399fa088aa75724e7f591a5e45c6517da0b7114186bb2ff83e961",
+      "bytes": 23778,
+      "qpy_version": 17
+    },
+    {
+      "pub": 7,
+      "filename": "original_ibm_pub07.qpy",
+      "sha256": "950afb1a34101a45e2145e71e43940e16c217367c7933a5451ab574f25f62604",
+      "bytes": 23943,
+      "qpy_version": 17
+    },
+    {
+      "pub": 8,
+      "filename": "original_ibm_pub08.qpy",
+      "sha256": "e6c1278b6d70403d21e8df3a5fd21b6db4f7af2d134b62e68765d8d1e4c7d26c",
+      "bytes": 24282,
+      "qpy_version": 17
+    },
+    {
+      "pub": 9,
+      "filename": "original_ibm_pub09.qpy",
+      "sha256": "86564081b0672eed7b294d66c38efcdb7cbd8b2b4d8d790d3a40de28374c51e6",
+      "bytes": 24081,
+      "qpy_version": 17
+    },
+    {
+      "pub": 10,
+      "filename": "original_ibm_pub10.qpy",
+      "sha256": "f776ae59ebc3e3043d48c435a1e7f6666f538ec121530c7b56933f0a5844845d",
+      "bytes": 24038,
+      "qpy_version": 17
+    },
+    {
+      "pub": 11,
+      "filename": "original_ibm_pub11.qpy",
+      "sha256": "9f7d0b53e183a0e6db0cd2bb675b9ccb35422eb0fd19293e82a1f9159a47870c",
+      "bytes": 24065,
+      "qpy_version": 17
+    },
+    {
+      "pub": 12,
+      "filename": "original_ibm_pub12.qpy",
+      "sha256": "e23e1745c50f724866e157ffb36c33140fa767de45d01763e7a5cd4a39cb2aa3",
+      "bytes": 23900,
+      "qpy_version": 17
+    },
+    {
+      "pub": 13,
+      "filename": "original_ibm_pub13.qpy",
+      "sha256": "659c0dadc4dd46d34b17e43a82ae0b6a7e8dc60a6acb70326b25c6c1d02be558",
+      "bytes": 24160,
+      "qpy_version": 17
+    },
+    {
+      "pub": 14,
+      "filename": "original_ibm_pub14.qpy",
+      "sha256": "ac75f6f9f24a83b80ca25e7c6b93186b581cb4fbfa4ddf06cd42bee8edd5d0e0",
+      "bytes": 24022,
+      "qpy_version": 17
+    },
+    {
+      "pub": 15,
+      "filename": "original_ibm_pub15.qpy",
+      "sha256": "34f2aaeb9f9d367ce946d8b863e3d26357895fc435f76a1efc919a1ad4a0a8f3",
+      "bytes": 23943,
+      "qpy_version": 17
+    }
+  ]
+}

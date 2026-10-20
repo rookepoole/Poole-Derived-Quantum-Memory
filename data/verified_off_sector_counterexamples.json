@@ -1,0 +1,438 @@
+{
+  "backgrounds_checked": [
+    "000",
+    "011",
+    "111"
+  ],
+  "variations_per_background": 16,
+  "mismatches_per_background": {
+    "000": 4,
+    "011": 4,
+    "111": 4
+  },
+  "actual_circuit_scope": "F2 formula works on eight reachable F1 outputs and full-erasure control; it is not a general four-neighbor gate for arbitrary interventions",
+  "examples": [
+    {
+      "seed_history": "000",
+      "neighbors_3_5_6_7": "0011",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 0,
+      "match": false
+    },
+    {
+      "seed_history": "000",
+      "neighbors_3_5_6_7": "0100",
+      "exact_V207_center": 0,
+      "optimized_F2_center": 1,
+      "match": false
+    },
+    {
+      "seed_history": "000",
+      "neighbors_3_5_6_7": "1000",
+      "exact_V207_center": 0,
+      "optimized_F2_center": 1,
+      "match": false
+    },
+    {
+      "seed_history": "000",
+      "neighbors_3_5_6_7": "1111",
+      "exact_V207_center": 0,
+      "optimized_F2_center": 1,
+      "match": false
+    },
+    {
+      "seed_history": "011",
+      "neighbors_3_5_6_7": "0011",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 0,
+      "match": false
+    },
+    {
+      "seed_history": "011",
+      "neighbors_3_5_6_7": "0100",
+      "exact_V207_center": 0,
+      "optimized_F2_center": 1,
+      "match": false
+    },
+    {
+      "seed_history": "011",
+      "neighbors_3_5_6_7": "1000",
+      "exact_V207_center": 0,
+      "optimized_F2_center": 1,
+      "match": false
+    },
+    {
+      "seed_history": "011",
+      "neighbors_3_5_6_7": "1111",
+      "exact_V207_center": 0,
+      "optimized_F2_center": 1,
+      "match": false
+    },
+    {
+      "seed_history": "111",
+      "neighbors_3_5_6_7": "0011",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 0,
+      "match": false
+    },
+    {
+      "seed_history": "111",
+      "neighbors_3_5_6_7": "0100",
+      "exact_V207_center": 0,
+      "optimized_F2_center": 1,
+      "match": false
+    },
+    {
+      "seed_history": "111",
+      "neighbors_3_5_6_7": "1000",
+      "exact_V207_center": 0,
+      "optimized_F2_center": 1,
+      "match": false
+    },
+    {
+      "seed_history": "111",
+      "neighbors_3_5_6_7": "1111",
+      "exact_V207_center": 0,
+      "optimized_F2_center": 1,
+      "match": false
+    }
+  ],
+  "full_grid": [
+    {
+      "seed_history": "000",
+      "neighbors_3_5_6_7": "0000",
+      "exact_V207_center": 0,
+      "optimized_F2_center": 0,
+      "match": true
+    },
+    {
+      "seed_history": "000",
+      "neighbors_3_5_6_7": "0001",
+      "exact_V207_center": 0,
+      "optimized_F2_center": 0,
+      "match": true
+    },
+    {
+      "seed_history": "000",
+      "neighbors_3_5_6_7": "0010",
+      "exact_V207_center": 0,
+      "optimized_F2_center": 0,
+      "match": true
+    },
+    {
+      "seed_history": "000",
+      "neighbors_3_5_6_7": "0011",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 0,
+      "match": false
+    },
+    {
+      "seed_history": "000",
+      "neighbors_3_5_6_7": "0100",
+      "exact_V207_center": 0,
+      "optimized_F2_center": 1,
+      "match": false
+    },
+    {
+      "seed_history": "000",
+      "neighbors_3_5_6_7": "0101",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 1,
+      "match": true
+    },
+    {
+      "seed_history": "000",
+      "neighbors_3_5_6_7": "0110",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 1,
+      "match": true
+    },
+    {
+      "seed_history": "000",
+      "neighbors_3_5_6_7": "0111",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 1,
+      "match": true
+    },
+    {
+      "seed_history": "000",
+      "neighbors_3_5_6_7": "1000",
+      "exact_V207_center": 0,
+      "optimized_F2_center": 1,
+      "match": false
+    },
+    {
+      "seed_history": "000",
+      "neighbors_3_5_6_7": "1001",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 1,
+      "match": true
+    },
+    {
+      "seed_history": "000",
+      "neighbors_3_5_6_7": "1010",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 1,
+      "match": true
+    },
+    {
+      "seed_history": "000",
+      "neighbors_3_5_6_7": "1011",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 1,
+      "match": true
+    },
+    {
+      "seed_history": "000",
+      "neighbors_3_5_6_7": "1100",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 1,
+      "match": true
+    },
+    {
+      "seed_history": "000",
+      "neighbors_3_5_6_7": "1101",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 1,
+      "match": true
+    },
+    {
+      "seed_history": "000",
+      "neighbors_3_5_6_7": "1110",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 1,
+      "match": true
+    },
+    {
+      "seed_history": "000",
+      "neighbors_3_5_6_7": "1111",
+      "exact_V207_center": 0,
+      "optimized_F2_center": 1,
+      "match": false
+    },
+    {
+      "seed_history": "011",
+      "neighbors_3_5_6_7": "0000",
+      "exact_V207_center": 0,
+      "optimized_F2_center": 0,
+      "match": true
+    },
+    {
+      "seed_history": "011",
+      "neighbors_3_5_6_7": "0001",
+      "exact_V207_center": 0,
+      "optimized_F2_center": 0,
+      "match": true
+    },
+    {
+      "seed_history": "011",
+      "neighbors_3_5_6_7": "0010",
+      "exact_V207_center": 0,
+      "optimized_F2_center": 0,
+      "match": true
+    },
+    {
+      "seed_history": "011",
+      "neighbors_3_5_6_7": "0011",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 0,
+      "match": false
+    },
+    {
+      "seed_history": "011",
+      "neighbors_3_5_6_7": "0100",
+      "exact_V207_center": 0,
+      "optimized_F2_center": 1,
+      "match": false
+    },
+    {
+      "seed_history": "011",
+      "neighbors_3_5_6_7": "0101",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 1,
+      "match": true
+    },
+    {
+      "seed_history": "011",
+      "neighbors_3_5_6_7": "0110",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 1,
+      "match": true
+    },
+    {
+      "seed_history": "011",
+      "neighbors_3_5_6_7": "0111",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 1,
+      "match": true
+    },
+    {
+      "seed_history": "011",
+      "neighbors_3_5_6_7": "1000",
+      "exact_V207_center": 0,
+      "optimized_F2_center": 1,
+      "match": false
+    },
+    {
+      "seed_history": "011",
+      "neighbors_3_5_6_7": "1001",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 1,
+      "match": true
+    },
+    {
+      "seed_history": "011",
+      "neighbors_3_5_6_7": "1010",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 1,
+      "match": true
+    },
+    {
+      "seed_history": "011",
+      "neighbors_3_5_6_7": "1011",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 1,
+      "match": true
+    },
+    {
+      "seed_history": "011",
+      "neighbors_3_5_6_7": "1100",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 1,
+      "match": true
+    },
+    {
+      "seed_history": "011",
+      "neighbors_3_5_6_7": "1101",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 1,
+      "match": true
+    },
+    {
+      "seed_history": "011",
+      "neighbors_3_5_6_7": "1110",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 1,
+      "match": true
+    },
+    {
+      "seed_history": "011",
+      "neighbors_3_5_6_7": "1111",
+      "exact_V207_center": 0,
+      "optimized_F2_center": 1,
+      "match": false
+    },
+    {
+      "seed_history": "111",
+      "neighbors_3_5_6_7": "0000",
+      "exact_V207_center": 0,
+      "optimized_F2_center": 0,
+      "match": true
+    },
+    {
+      "seed_history": "111",
+      "neighbors_3_5_6_7": "0001",
+      "exact_V207_center": 0,
+      "optimized_F2_center": 0,
+      "match": true
+    },
+    {
+      "seed_history": "111",
+      "neighbors_3_5_6_7": "0010",
+      "exact_V207_center": 0,
+      "optimized_F2_center": 0,
+      "match": true
+    },
+    {
+      "seed_history": "111",
+      "neighbors_3_5_6_7": "0011",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 0,
+      "match": false
+    },
+    {
+      "seed_history": "111",
+      "neighbors_3_5_6_7": "0100",
+      "exact_V207_center": 0,
+      "optimized_F2_center": 1,
+      "match": false
+    },
+    {
+      "seed_history": "111",
+      "neighbors_3_5_6_7": "0101",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 1,
+      "match": true
+    },
+    {
+      "seed_history": "111",
+      "neighbors_3_5_6_7": "0110",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 1,
+      "match": true
+    },
+    {
+      "seed_history": "111",
+      "neighbors_3_5_6_7": "0111",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 1,
+      "match": true
+    },
+    {
+      "seed_history": "111",
+      "neighbors_3_5_6_7": "1000",
+      "exact_V207_center": 0,
+      "optimized_F2_center": 1,
+      "match": false
+    },
+    {
+      "seed_history": "111",
+      "neighbors_3_5_6_7": "1001",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 1,
+      "match": true
+    },
+    {
+      "seed_history": "111",
+      "neighbors_3_5_6_7": "1010",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 1,
+      "match": true
+    },
+    {
+      "seed_history": "111",
+      "neighbors_3_5_6_7": "1011",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 1,
+      "match": true
+    },
+    {
+      "seed_history": "111",
+      "neighbors_3_5_6_7": "1100",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 1,
+      "match": true
+    },
+    {
+      "seed_history": "111",
+      "neighbors_3_5_6_7": "1101",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 1,
+      "match": true
+    },
+    {
+      "seed_history": "111",
+      "neighbors_3_5_6_7": "1110",
+      "exact_V207_center": 1,
+      "optimized_F2_center": 1,
+      "match": true
+    },
+    {
+      "seed_history": "111",
+      "neighbors_3_5_6_7": "1111",
+      "exact_V207_center": 0,
+      "optimized_F2_center": 1,
+      "match": false
+    }
+  ]
+}
